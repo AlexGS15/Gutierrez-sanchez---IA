@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class T1_Arbolbinario {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Arbol arbol = new Arbol();
@@ -102,3 +102,4 @@ class Arbol {
         }
     }
 }
+
